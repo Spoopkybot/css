@@ -355,7 +355,13 @@ made with the help of others.
 /*---------- Square Stuff ----------*/
 /*Updated 2020-11-19*/
 /*Square Chat Avatars*/
-
+.avatar-1BDn8e{
+  /*border: 2.5px solid var(--main-color) !important;
+  width: 35px !important;
+  height: 35px !important;*/
+  border-radius: var(--square-border-radius) !important;
+  background-size: cover !important;
+}
 /*Square vc pfp*/
 [class*="avatar"],
 [class*="avatar"] * img{
@@ -379,11 +385,7 @@ made with the help of others.
 /*---------- Borders ----------*/
 /*Updated 2020-08-22*/
 /*A border for user profiles,popouts*/
-.theme-dark .headerNormal-T_seeN,
-.theme-dark .topSectionNormal-2-vo2m{
-  background-color: rgba(0,0,0,0.4);
-  border: 2px solid var(--main-color);
-}
+
 /*Hotfix after update because fuck discord,its still broken in user profiles but whatever*/
 .headerTop-3C2Zn0{
   background-color: rgba(0,0,0,0.4);
