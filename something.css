@@ -60,7 +60,10 @@ made with the help of others.
 .role-2-tni0:hover{
   background-color: rgba(255,255,255,0.1);
 }
-
+.iconContainer-2SYmeK.checked-1Gs3_E{
+  background-color: var(--main-color);
+  border-color: var(--main-color);
+}
 /*server folder transparency*/
 .folder-1hbNCn,.folder-1hbNCn:hover,.expandedFolderIconWrapper-Huv7rA,.expandedFolderIconWrapper-Huv7rA:hover{
   background: transparent;
@@ -352,7 +355,13 @@ made with the help of others.
 /*---------- Square Stuff ----------*/
 /*Updated 2020-11-19*/
 /*Square Chat Avatars*/
-
+.avatar-1BDn8e{
+  border: 2.5px solid var(--main-color) !important;/*
+  width: 35px !important;
+  height: 35px !important;*/
+  border-radius: var(--square-border-radius) !important;
+  background-size: cover !important;
+}
 /*Square vc pfp*/
 [class*="avatar"],
 [class*="avatar"] * img{
@@ -381,7 +390,7 @@ made with the help of others.
   background-color: rgba(0,0,0,0.4);
   border: 2px solid var(--main-color);
 }
-/*Hotfix after update because fuck discord,its still broken in user profiles but whatever
+/*Hotfix after update because fuck discord,its still broken in user profiles but whatever*/
 .headerTop-3C2Zn0{
   background-color: rgba(0,0,0,0.4);
   border-left: 2px solid var(--main-color);
@@ -394,7 +403,6 @@ made with the help of others.
   border-right: 2px solid var(--main-color);
   border-bottom: 2px solid var(--main-color);
 }
-*/
 /*---------- Pings ----------*/
 /*Updated 2020-06-20*/
 /*Fancier Pings*/
