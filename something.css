@@ -406,24 +406,7 @@ made with the help of others.
 /*---------- Pings ----------*/
 /*Updated 2020-06-20*/
 /*Fancier Pings*/
-.numberBadge-2s8kKX{
-  background-color: black !important;
-  height: 18px;
-  width: 18px !important;
-  margin-bottom: -3px;
-  margin-right: -5px;
-  border: 1px solid var(--main-color);
-}
-.theme-dark .mentioned-xhSam7,
-.message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z,
-.mouse-mode.full-motion .mentioned-xhSam7:hover{
-  border: 2px solid var(--ping-border-color);
-  background-image: linear-gradient(var(--gradient-rotation),var(--ping-gradient-color),var(--ping-fill-color)) !important;
-}
-.mouse-mode.full-motion .mentioned-xhSam7:hover{
-  background-image: linear-gradient(var(--gradient-rotation),var(--hover-gradient-color),var(--hover-ping-fill-color)) !important;
-  border: 2px solid var(--hover-ping-border-color);
-}
+
 /*---------- Color! ----------*/
 /*Updated 2021-02-14*/
 .textArea-12jD-V.slateContainer-3Qkn2x > .markup-2BOw-j,/*Typing area*/
