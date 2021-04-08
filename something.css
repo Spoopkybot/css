@@ -355,13 +355,7 @@ made with the help of others.
 /*---------- Square Stuff ----------*/
 /*Updated 2020-11-19*/
 /*Square Chat Avatars*/
-.avatar-1BDn8e{
-  /*border: 2.5px solid var(--main-color) !important;
-  width: 35px !important;
-  height: 35px !important;*/
-  border-radius: var(--square-border-radius) !important;
-  background-size: cover !important;
-}
+
 /*Square vc pfp*/
 [class*="avatar"],
 [class*="avatar"] * img{
