@@ -77,17 +77,7 @@
     --home-position: center;
     --home-size: 40px
 }
-/*---------- DateViewer ----------*/
-/*Updated 2020-08-31*/
-/*Make the DateViewer plugin background transparent*/
-#dv-mount{
-  background: rgba(0,0,0,.2);
-  font: var(--main-font);
-}
-/*
-.dv-time,.dv-weekday,#dv-main .dv-date,.layer-v9HyYc{
-  color: var(--text-color) !important;
-}*/ /*Changes DV Text Colors; if you think this is aids,comment it*/
+
 
 .appMount-3lHmkl{
     background:var(--background-overlay)
@@ -7594,6 +7584,17 @@ textarea::-webkit-scrollbar{
     border-radius:0 0 5px 5px;
     box-shadow:0 0 10px rgba(0,0,0,0.5)
 }
+/*---------- DateViewer ----------*/
+/*Updated 2020-08-31*/
+/*Make the DateViewer plugin background transparent*/
+#dv-mount{
+  background: rgba(0,0,0,.2);
+  font: var(--main-font);
+}
+/*
+.dv-time,.dv-weekday,#dv-main .dv-date,.layer-v9HyYc{
+  color: var(--text-color) !important;
+}*/ /*Changes DV Text Colors; if you think this is aids,comment it*/
 .emote-container{
     border-radius:3px;
     transition:all .15s ease-in-out
