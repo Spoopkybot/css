@@ -1,0 +1,263 @@
+.bd-addon-card.settings-closed{
+    background:rgba(0,0,0,.6)
+}
+.bd-addon-header{
+    background:rgba(0,0,0,.7)!important
+}
+.container-3baos1>.flex-1O1GKY,.container-1giJp5>.flex-1O1GKY{
+    background:0 0
+}
+.notice-3bPHh-.noticeWrapper-8z511t{
+    border-radius:8px!important;
+    margin-bottom:5px
+}
+.scroller-9moviB.auto-Ge5KZx.scrollerBase-289Jih{
+    background:var(--panels-opacity);
+    border-radius:10px
+}
+foreignobject[mask]{
+    mask:url();
+    -webkit-border-radius:20%;
+    border-radius:20%
+}
+.avatar-1BDn8e,.avatar-3bWpYy,.avatar-3tNQiO.avatarSmall-1PJoGO{
+    border-radius:var(--avatar-roundness)!important
+}
+.live-vBWnV6{
+    border-radius:5%
+}
+.wrapper-2qzCYF.noChat-18KtBD.video--KPXCT,.scroller-11cdZM.thin-1ybCId.scrollerBase-289Jih,.wrapper-2qzCYF.fullScreen-1tMzXY.video--KPXCT{
+    background:var(--panels-opacity);
+    border-radius:10px
+}
+.tile-kezkfV:hover{
+    transform:scale(.95)
+}
+.layout-2DM8Md:after,.selectorSelected-1_M1WV{
+    background:linear-gradient(50deg,var(--main-color),white,var(--main-color))!important;
+    background-size:600% 600%!important;
+    animation:gradientAnimation 2s ease infinite!important
+}
+@keyframes gradientAnimation{
+    0%{
+        background-position:0% 50%
+    }
+    50%{
+        background-position:100% 51%
+    }
+    100%{
+        background-position:0% 50%
+    }
+}
+.wanderingCubesItem-WPXqao:first-child{
+    background-image:var(--loading-gif);
+    background-size:auto;
+    background-position:center
+}
+.wanderingCubesItem-WPXqao:last-child,.wanderingCubesItem-WPXqao:before,.wanderingCubesItem-WPXqao:after{
+    display:none
+}
+.inner-1gJC7_{
+    height:300px;
+    width:500px
+}
+div[aria-label*="Pinned Messages"]>.messagesPopoutWrap-1MQ1bW,div[aria-label*="Recent Mentions"]{
+    border-radius:15px
+}
+div[aria-label*="Pinned Messages"]>div>.header-ykumBX{
+    background:var(--main-color);
+    text-align:center
+}
+.guilds-1SWlCJ [class*=expandedFolderBackground]{
+    background:rgba(0,0,0,.3);
+    bottom:0
+}
+.expandedFolderBackground-2sPsd-{
+    bottom:0
+}
+.app,.app-2rEoOp{
+    margin:var(--general-margin);
+    border-radius:6px;
+    overflow:hidden
+}
+.app-1q1i1E{
+    background:var(--background-image);
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed
+}
+.layer-3QrUeG[aria-label=USER_SETTINGS],.layer-3QrUeG[aria-label=GUILD_SETTINGS],.layer-3QrUeG[aria-label=CHANNEL_SETTINGS]{
+    background:var(--panels-opacity)
+}
+.container-19hC9u.scroller-1IIF0A.stickyScroller-24zUyY.auto-Ge5KZx.scrollerBase-289Jih,.scroller-2XE8rp.auto-Ge5KZx.scrollerBase-289Jih{
+    background:var(--panels-opacity)
+}
+.container-3gCOGc,#friends,.activityFeed-28jde9,.gameLibrary-TTDw4Y,.applicationStore-1pNvnv,.chat-3bRxxu{
+    border-radius:10px
+}
+.noticeDefault-362Ko2{
+    margin-bottom:10px
+}
+.wrapper-2qzCYF.minimum-28Z35l{
+    background:var(--panels-opacity)
+}
+.root-217Brm,.wrapper-2qzCYF{
+    border-radius:15px;
+    margin-bottom:10px
+}
+.title-3qD0b-.container-1r6BKw{
+    border-radius:15px;
+    margin-bottom:10px;
+    background:var(--panels-opacity)!important
+}
+.newMessagesBar-mujexs{
+    transition:all .15s ease-in-out;
+    margin-top:20px
+}
+.wrapper-1Rf91z,.guilds-1SWlCJ{
+    background:0 0!important;
+    border:0!important;
+    box-shadow:0 0!important
+}
+.sidebar-2K8pFh,.sidebar-2K8pFh.hasNotice-1XRy4h{
+    border-radius:10px!important;
+    margin-right:20px;
+    background:0 0!important
+}
+.container-3w7J-x,.privateChannels-1nO12o,.container-1giJp5,.activityPanel-28dQGo.panel-24C3ux,.listeningAlong-30wH70{
+    background:var(--panels-opacity)!important;
+    margin-bottom:10px;
+    border-radius:10px
+}
+.withTimeline-824fT_.container-6sXIoE{
+    background:var(--panels-opacity);
+    border-radius:10px;
+    margin-bottom:10px;
+    border:0
+}
+.cover-SwJ-ck,.container-6sXIoE{
+    border-radius:10px 10px 0 0
+}
+.container-3baos1{
+    background:var(--panels-opacity);
+    margin-bottom:0;
+    border-radius:10px;
+    padding-bottom:5px
+}
+.container-3baos1::before,.container-3baos1::after{
+    margin-bottom:10px
+}
+.chatContent-a9vAAp{
+    border-radius:10px!important;
+    background:var(--panels-opacity)!important
+}
+.members-1998pB.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2>div>h2{
+    visibility:hidden;
+    padding:0;
+    height:0;
+    transition:all .3s ease-out
+}
+.members-1998pB.thin-1ybCId.scrollerBase-289Jih.fade-2kXiP2:hover>div>h2{
+    visibility:visible;
+    padding-top:20px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    color:var(--main-color);
+    font-size:11px;
+    font-weight:700;
+    text-align:center;
+    transition:all .3s ease-in;
+    opacity:.85;
+    height:40px;
+    padding-left:16px;
+    padding-right:8px
+}
+.membersWrap-2h-GB4{
+    left:181px;
+    margin-left:-175px;
+    transition:.3s all ease-in;
+    background:var(--panels-opacity);
+    border-radius:10px!important
+}
+.members-1998pB{
+    border-radius:10px
+}
+.membersWrap-2h-GB4:hover{
+    left:0;
+    border-radius:10px!important;
+    transition:.3s all ease-out;
+    background:rgba(0,0,0,.9)
+}
+.iconWrapper-2OrFZ1[aria-label="Member List"]{
+    display:none
+}
+.searchResultsWrap-3-pOjs{
+    border-radius:10px;
+    margin-left:20px
+}
+.container-1r6BKw.themed-ANHk51{
+    border-radius:10px!important;
+    background:var(--panels-opacity);
+    margin-bottom:10px
+}
+.peopleColumn-29fq28{
+    border-radius:10px!important;
+    background:var(--panels-opacity);
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+    margin-right:10px
+}
+.nowPlayingColumn-2sl4cE{
+    border-radius:10px!important;
+    background:var(--panels-opacity);
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed
+}
+.inner-1ilYF7{
+    border-radius:10px;
+    box-shadow:0 8px 15px rgba(255,255,255,.3)
+}
+.bd-scroller-wrap.bd-description-wrap.bda-description-wrap.scroller-wrap.fade{
+    color:#fff
+}
+#popout_1591 div div header{
+    border-radius:15px 15px 0 0!important
+}
+#popout_1591 div div section{
+    border-radius:0 0 15px 15px!important
+}
+.container-2x5lvQ{
+    width:240px;
+    box-shadow:none
+}
+.container-2x5lvQ>section{
+    background:rgba(0,0,0,.9)!important
+}
+.container-2x5lvQ section p:nth-of-type(1){
+    font-size:0
+}
+.container-2x5lvQ section p:nth-of-type(2){
+    display:none
+}
+.container-2x5lvQ section strong{
+    font-size:14px;
+    white-space:pre
+}
+.container-2x5lvQ section strong::before{
+    font-weight:400
+}
+.container-2x5lvQ section strong:nth-of-type(1)::before{
+    content:'Server: '
+}
+.container-2x5lvQ section strong:nth-of-type(2)::before{
+    content:'Average Ping: '
+}
+.container-2x5lvQ section strong:nth-of-type(3)::before{
+    content:' Last Ping: '
+}
+.container-2x5lvQ section strong:nth-of-type(4)::before{
+    content:'Packet Loss: '
+}
